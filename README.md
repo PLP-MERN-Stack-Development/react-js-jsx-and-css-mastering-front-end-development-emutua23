@@ -36,7 +36,7 @@ A modern, responsive weather application built with **React.js**, **Vite**, and 
 
 ## 🚀 Demo
 
-**Live Demo:** [Add your deployment URL here]
+**Live Demo:** (https://plp-mern-stack-development.github.io/react-js-jsx-and-css-mastering-front-end-development-emutua23/)
 
 ## 📸 Screenshots
 
