@@ -40,7 +40,14 @@ A modern, responsive weather application built with **React.js**, **Vite**, and 
 
 ## 📸 Screenshots
 
-*Add screenshots of your application here after deployment*
+### 🌤️ Home Page
+![Home Page](./screenshots/home-page.png)
+
+### 🌦️ Weather Details
+![Weather Details](./screenshots/weather-card.png)
+
+### 📊 5-Day Forecast
+![Forecast View](./screenshots/forecast-view.png)
 
 ## 📦 Prerequisites
 
